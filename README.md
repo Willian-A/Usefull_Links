@@ -1,9 +1,9 @@
-# Usefull_Links
+# Links Uteis
 ## *Diversos Links com artigos, aulas, comentários e conversas uteis para a carreira.*
 
-#### Como montar um bom LinkedIn: [Link](https://twitter.com/devscansados/status/1346257983345479681)
+#### Como montar um bom LinkedIn: [Link Twitter](https://twitter.com/devscansados/status/1346257983345479681)
 
-#### O mínimo que você precisa saber de JS para aprender Frameworks: [Link](https://twitter.com/FelippeRegazio/status/1351336367482163202)
+#### O mínimo que você precisa saber de JS para aprender Frameworks: [Link Twitter](https://twitter.com/FelippeRegazio/status/1351336367482163202)
 
 #### Dica para conseguir vagas como Dev: [Link Twitter](https://twitter.com/HoffmannDev/status/1349111708887953409)
 
